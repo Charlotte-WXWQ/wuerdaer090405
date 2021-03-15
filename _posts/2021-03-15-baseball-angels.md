@@ -32,4 +32,4 @@ featured: true
 
 2018 年 8 月，“强棒天使队”受到了来自 PONY 少棒联盟 美国组委会的官方关注，作为亚太区的唯一一支代表队，球队受 邀参加 2018 年 PONY 世界大赛 U11 Bronco 组决赛阶段的角逐， 这是中国棒球历史上首次直接获邀代表亚太区参加国际青少年棒 球赛事，刷新了中国体育的历史。赛事期间，球队在当地形成轰动性的影响，孩子们健康、阳光、坚强的动人事迹登上著名报纸 《波士顿环球报》、《世界日报》、《侨报》等美国媒体。
 
-***想要了解更多，欢迎下载：[强棒天使项目简介.pdf](https://github.com/Charlotte-WXWQ/wuerdaer090405/files/6141028/default.pdf)
+想要了解更多，欢迎下载：[强棒天使项目简介.pdf](https://github.com/Charlotte-WXWQ/wuerdaer090405/files/6141028/default.pdf)
