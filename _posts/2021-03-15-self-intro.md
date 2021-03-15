@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "我的自我介绍 Self-introduction"
-image: 5.JPG
+image: assets/images/5.JPG
 featured: true
 ---
 # 来认识一下我吧
