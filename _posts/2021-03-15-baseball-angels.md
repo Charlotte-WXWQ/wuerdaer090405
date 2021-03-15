@@ -1,3 +1,4 @@
+[强棒天使项目简介.pdf](https://github.com/Charlotte-WXWQ/wuerdaer090405/files/6141028/default.pdf)
 ---
 layout: post
 title:  "强棒天使计划 Baseball Angels Project"
